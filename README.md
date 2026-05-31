@@ -9,7 +9,7 @@ Meu objetivo é me tornar um desenvolvedor backend especializado em APIs, sistem
 
 ---
 
-## 🚀 Atualmente estudando
+## 🧠 Atualmente estudando
 
 -   JavaScript
 -   Node.js
@@ -20,7 +20,7 @@ Meu objetivo é me tornar um desenvolvedor backend especializado em APIs, sistem
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
 ### Frontend
 
