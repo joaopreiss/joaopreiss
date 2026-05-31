@@ -31,6 +31,7 @@ Meu objetivo é me tornar um desenvolvedor backend especializado em APIs, sistem
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/joao-reiss/
 - GitHub: https://github.com/joaopreiss
+- E-mail: jpreis.dev@gmail.com
 
 ---
 
