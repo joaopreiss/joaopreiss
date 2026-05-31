@@ -1,7 +1,6 @@
 # Olá 👋, Me chamo João Pedro
 
 🚀 **Desenvolvedor Backend em formação | Estudante de Análise e Desenvolvimento de Sistemas**  
-🇧🇷 Brasil
 
 Atualmente focado em construir uma base sólida em lógica de programação, JavaScript e desenvolvimento backend.
 
