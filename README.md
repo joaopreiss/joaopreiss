@@ -23,7 +23,7 @@ Meu objetivo é me tornar um desenvolvedor backend especializado em APIs, sistem
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode&theme=dark">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,git,github,vscode&theme=dark">
 </p>
 
 ---
